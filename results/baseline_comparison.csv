@@ -1,8 +1,4 @@
 ,Accuracy,Precision,Recall,F1
-Decision Tree,0.9199,0.921,0.9199,0.9195
 Logistic Regression,0.9186,0.9189,0.9186,0.9183
 Random Forest,0.916,0.9164,0.916,0.9157
-Gradient Boosting,0.9147,0.9149,0.9147,0.9144
 kNN,0.9121,0.912,0.9121,0.9119
-Perceptron,0.899,0.8988,0.899,0.8988
-Naive Bayes,0.895,0.8953,0.895,0.8945
